@@ -8,8 +8,6 @@ Vendor Management System is a Django application for managing vendors, purchase 
 - [Usage](#usage)
 - [Testing](#testing)
 - [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
